@@ -141,6 +141,26 @@ header {
   margin-left: 15px;
 }
 
+.te_ganas {
+  width: 100%;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.te_ganas span {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+.te_ganas span strong:first-child {
+  font-size: 2.5rem;
+  font-family: "Roboto", sans-serif;
+}
+.te_ganas span strong {
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  display: inline-block;
+  margin-bottom: 10px;
+}
 .otras {
   width: 100%;
 }
